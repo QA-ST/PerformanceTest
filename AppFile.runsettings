@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RunSettings>
+	<TestRunParameters>
+		<Parameter name="TestURL" value="https://testpostframesolver.azurewebsites.net/Account/Login?ReturnUrl=%2F" />
+		<Parameter name="BetaURL" value="https://betapostframesolver.azurewebsites.net/Account/Login?ReturnUrl=%2F" />" />
+		<Parameter name="ProductionURL" value="https://postframesolver.azurewebsites.net/Account/Login?ReturnUrl=%2F" />" />
+		<Parameter name="HomePageURL" value="https://testpostframesolver.azurewebsites.net/" />" />
+		<Parameter name="TrussPageURL" value="https://testpostframesolver.azurewebsites.net/TrussDescriptions/Index" />" />
+		<Parameter name="SetupWizardPageURL" value="https://testpostframesolver.azurewebsites.net/SetupWizard/Index" />" />
+		<Parameter name="DistributorPageURL" value="https://testpostframesolver.azurewebsites.net/Distributors" />" />
+		<Parameter name="ColorsPageURL" value="https://testpostframesolver.azurewebsites.net/Colors/" />" />
+		
+		<Parameter name="GMailPageURL" value="https://mail.google.com/mail/" />" />
+		<Parameter name="GooglePageURL" value="https://www.google.com/" />" />
+		<Parameter name="WikipediaPageURL" value="https://www.wikipedia.org/" />" />
+		<Parameter name="FacebookPageURL" value="https://www.facebook.com/" />" />
+		<Parameter name="SmartBuildSystemPageURL" value="https://smartbuildsystems.com/" />" />
+		<Parameter name="SmartBuildResourcesPageURL" value="https://smartbuildsystems.com/resources/" />" />
+		<Parameter name="SmartBuildContactPageURL" value="https://smartbuildsystems.com/contact/" />" />
+		
+		<Parameter name="Username" value="kdhillon@keymark.com" />
+		<Parameter name="Password" value="Sss4321!" />
+		<Parameter name="DistributorInfo" value="AUTOTEST_PHTEST" />
+		<Parameter name="IdDrawingArea" value="drawingArea" />
+	</TestRunParameters>
+</RunSettings>
+
